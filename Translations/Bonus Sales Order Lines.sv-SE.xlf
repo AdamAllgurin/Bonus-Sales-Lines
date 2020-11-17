@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="sv-SE" original="Bonus Sales Order Lines">
+    <body>
+      <group id="body">
+        <trans-unit id="TableExtension 2950218440 - Field 1683241713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Value entries with bonus</source>
+          <target>Värdetransaktioner med Bonus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemExt - Field BonusLookup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3461155121 - Field 2444719103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>Bonus</source>
+          <target>Bonus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension SalesLineExt - Field Bonus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2901031802 - Field 2444719103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 467645625">
+          <source>Bonus</source>
+          <target>Bonus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ValueEntryExt - Field Bonus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1186464917 - Field 2444719103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 346005766">
+          <source>Bonus</source>
+          <target>Bonus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemJournalLineExt - Field Bonus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 125480607 - Field 2444719103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4089294192">
+          <source>Bonus</source>
+          <target>Bonus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemLedgerEntryExt - Field Bonus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1947502013 - EnumValue 744776610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bronze</source>
+          <target>Brons</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SalesLineBonus - EnumValue Bronze - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1947502013 - EnumValue 2665451865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Silver</source>
+          <target>Silver</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SalesLineBonus - EnumValue Silver - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1947502013 - EnumValue 580429820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gold</source>
+          <target>Guld</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum SalesLineBonus - EnumValue Gold - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

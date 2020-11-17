@@ -1,0 +1,27 @@
+{
+  "id": "fab76dec-a868-4b32-bc25-5ed5b9fbe8be",
+  "name": "Bonus Sales Order Lines",
+  "publisher": "Adam Allgurin",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "features": ["TranslationFile"],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject2.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
